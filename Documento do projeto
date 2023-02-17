@@ -1,0 +1,9 @@
+Testes unitários
+
+1. cenário - montagem do cenário de teste
+
+2. Executa o teste em si
+
+3. verificação do teste - se o teste ocorreu com sucesso
+Assert - diretivas do JUnit
+
