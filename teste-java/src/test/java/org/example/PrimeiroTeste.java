@@ -1,5 +1,6 @@
 package org.example;
 
+import org.assertj.core.api.Assertions;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -11,7 +12,8 @@ public class PrimeiroTeste {
         int num1 = 5, num2 = 3;
         int soma = num1 + num2;
 
-        Assert.assertEquals(8, soma);
+        //Assert.assertEquals(8, soma);
+        Assertions.assertThat(soma).isEqualTo(8);
 
     }
 }
