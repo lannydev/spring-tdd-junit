@@ -1,2 +1,4 @@
-package com.Produto;public class ProdutoInexistenteException extends Throwable {
+package com.Produto;
+
+public class ProdutoInexistenteException extends RuntimeException {
 }
