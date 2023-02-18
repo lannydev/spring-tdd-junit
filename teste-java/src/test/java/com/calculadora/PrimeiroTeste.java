@@ -1,4 +1,4 @@
-package org.example;
+package com.calculadora;
 
 import org.assertj.core.api.Assertions;
 import org.junit.Assert;

@@ -1,4 +1,4 @@
-package org.example;
+package com.pessoa;
 
 public class PessoaSemNotException extends RuntimeException {
 }

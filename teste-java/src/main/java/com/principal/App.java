@@ -1,4 +1,4 @@
-package org.example;
+package com.principal;
 
 /**
  * Hello world!
