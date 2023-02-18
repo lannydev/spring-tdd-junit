@@ -20,3 +20,12 @@ FUNCIONAMENTO:
 - Fazer o teste passar 
 - Refatorar
 
+
+BDD (Behavior Driven Development) - Consiste em escrever testes que qualquer humano pode ler. BDD trás pra gente não só um estilo de escrever cenários de testes amigável, mas a importante idéia do que deve ser feito antes de escrever o código que implementa sua funcionalidade. 
+- Modelar o comportamento do sistema através de testes e depois implementar as funcionalidades.
+
+FUNCIONAMENTO?
+- Given - Dado - Cenário
+- When - Quando - Execução
+- Then - Então - Resultado
+
