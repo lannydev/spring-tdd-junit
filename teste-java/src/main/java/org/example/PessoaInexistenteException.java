@@ -1,2 +1,4 @@
-package org.example;public class PessoaInexistenteException extends Throwable {
+package org.example;
+
+public class PessoaInexistenteException extends RuntimeException {
 }

@@ -1,4 +1,4 @@
 package org.example;
 
-public class PessoaSemNotExceotion extends RuntimeException {
+public class PessoaSemNotException extends RuntimeException {
 }
