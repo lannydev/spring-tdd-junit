@@ -7,3 +7,16 @@ Testes unitários
 3. verificação do teste - se o teste ocorreu com sucesso
 Assert - diretivas do JUnit
 
+
+
+TDD (Test Driven Development)
+- Desenvolvimento orientado por testes
+
+O software é desenvolvido baseado em testes que são escritos antes do código fonte
+ 
+FUNCIONAMENTO:
+- Primeiro escreve o teste - a principio o teste não vai passar
+- Implementa o código
+- Fazer o teste passar 
+- Refatorar
+
