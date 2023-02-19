@@ -53,6 +53,6 @@ public class CadastrarObjetoteste {
         Objetos objeto = new Objetos();
         objeto.setNome("mesa");
         cadastrar.remover(objeto);
-        
+
     }
 }
