@@ -31,6 +31,9 @@ FUNCIONAMENTO?
 
 
 
-MOKITO
+MOCKITO
 Biblioteca que auxilia os testes - fazer mok de objetos
 (ao fazer instancia de objetos - faz-se instancia de mock
+
+
+Outra forma de criar mocks é através na anotaciom @Mock - mas para rodar a anotacion vc deve usar antes da classe a extensão @RunWith(MockitoJUnitRunner.class)
