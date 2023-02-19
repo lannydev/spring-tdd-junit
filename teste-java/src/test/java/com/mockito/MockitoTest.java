@@ -12,10 +12,13 @@ public class MockitoTest {
     @Test
     public void primeiroTesteMockito(){
         List<String> lista = Mockito.mock(ArrayList.class);
-        Mockito.when(lista.size() ).thenReturn(20);
+        Mockito.when(lista.size() ).thenReturn(3);
+        lista.add("Elaine");
+        lista.add("Diegos");
+        lista.add("Lara");
 
         int size = lista.size();
 
-        Assertions.assertThat(size).isEqualTo(20);
+        Assertions.assertThat(size).isEqualTo(3);
     }
 }
