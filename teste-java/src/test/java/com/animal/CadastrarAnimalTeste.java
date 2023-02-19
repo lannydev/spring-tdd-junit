@@ -1,5 +1,7 @@
 package com.animal;
 
+import com.exceptions.AnimalInexistenteException;
+import com.exceptions.AnimalSemNomeException;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 

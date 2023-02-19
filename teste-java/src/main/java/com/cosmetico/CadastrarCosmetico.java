@@ -1,5 +1,8 @@
 package com.cosmetico;
 
+import com.exceptions.CosmeticoInexistenteException;
+import com.exceptions.CosmeticoSemNomeESemPrecoException;
+
 import java.util.ArrayList;
 import java.util.List;
 

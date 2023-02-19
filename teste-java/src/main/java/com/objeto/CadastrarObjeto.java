@@ -1,5 +1,8 @@
 package com.objeto;
 
+import com.exceptions.ObjetoInexistenteException;
+import com.exceptions.ObjetoSemNomeException;
+
 import java.util.ArrayList;
 import java.util.List;
 

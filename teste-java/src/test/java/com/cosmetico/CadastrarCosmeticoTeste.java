@@ -1,5 +1,7 @@
 package com.cosmetico;
 
+import com.exceptions.CosmeticoInexistenteException;
+import com.exceptions.CosmeticoSemNomeESemPrecoException;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 

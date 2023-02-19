@@ -1,4 +1,4 @@
-package com.cosmetico;
+package com.exceptions;
 
 public class CosmeticoInexistenteException extends RuntimeException {
 }

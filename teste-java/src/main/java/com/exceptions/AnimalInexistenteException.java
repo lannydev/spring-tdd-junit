@@ -1,4 +1,4 @@
-package com.animal;
+package com.exceptions;
 
 public class AnimalInexistenteException extends RuntimeException {
 }

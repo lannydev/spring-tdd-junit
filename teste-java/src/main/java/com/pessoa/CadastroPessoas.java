@@ -1,5 +1,8 @@
 package com.pessoa;
 
+import com.exceptions.PessoaInexistenteException;
+import com.exceptions.PessoaSemNotException;
+
 import java.util.ArrayList;
 import java.util.List;
 

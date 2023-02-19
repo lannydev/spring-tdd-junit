@@ -1,5 +1,8 @@
 package com.Produto;
 
+import com.exceptions.ProdutoInexistenteException;
+import com.exceptions.ProdutoSemNomeException;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,7 @@
 package com.pessoa;
 
+import com.exceptions.PessoaInexistenteException;
+import com.exceptions.PessoaSemNotException;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 

@@ -1,5 +1,7 @@
 package com.Produto;
 
+import com.exceptions.ProdutoInexistenteException;
+import com.exceptions.ProdutoSemNomeException;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 

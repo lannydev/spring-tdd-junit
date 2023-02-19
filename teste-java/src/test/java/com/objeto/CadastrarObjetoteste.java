@@ -1,9 +1,9 @@
 package com.objeto;
 
+import com.exceptions.ObjetoInexistenteException;
+import com.exceptions.ObjetoSemNomeException;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
-
-import java.security.spec.ECField;
 
 public class CadastrarObjetoteste {
 

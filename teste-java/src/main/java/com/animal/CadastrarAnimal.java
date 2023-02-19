@@ -1,5 +1,8 @@
 package com.animal;
 
+import com.exceptions.AnimalInexistenteException;
+import com.exceptions.AnimalSemNomeException;
+
 import java.util.ArrayList;
 import java.util.List;
 
