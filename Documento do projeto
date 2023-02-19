@@ -29,3 +29,8 @@ FUNCIONAMENTO?
 - When - Quando - Execução
 - Then - Então - Resultado
 
+
+
+MOKITO
+Biblioteca que auxilia os testes - fazer mok de objetos
+(ao fazer instancia de objetos - faz-se instancia de mock
